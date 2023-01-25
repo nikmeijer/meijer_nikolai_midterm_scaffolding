@@ -1,0 +1,44 @@
+Font and container size guide for Nikolai Meijer's midterm scaffolding.
+Jan 25, 2022
+all measurements are in px
+tbd means to be determined
+
+--- Desktop Ver. ---
+
+Header/nav - 1920 x 150
+Logo in nav - 100 x 100
+nav height - 50
+nav width - tbd
+hero img - 1920 x 1000 (header overlayed on top)
+hero text overlay - ~48px
+scroll hint - 18px (might not include)
+
+body headers - >64px
+product video box width: 1340
+text below video - ~32px
+flavour photos - 420 x 740
+flavour names - same as header
+marketing photos - 740 x 415
+body text - ~28px
+
+footer - 1920 x 335
+footer text size - tbd
+
+
+--- Mobile Ver. ---
+
+Header/nav - 428 x 150
+Logo in nav - 81 x 81
+hamburger menu - tbd
+hero img - 428 x 769
+
+body headers - ~48px
+product video box: 354 x 198
+text below video - ~28px
+flavour photos - 354 x 622
+flavour names - same as header
+marketing photos - 354 x 200
+body text - ~18px (tbd)
+
+footer - 428 x 408
+footer text size - tbd
