@@ -1,6 +1,6 @@
 Font and container size guide for Nikolai Meijer's midterm scaffolding.
 Jan 25, 2022
-all measurements are in px
+all measurements are in px, measurements with px written are font sizes.
 tbd means to be determined
 
 --- Desktop Ver. ---
@@ -8,13 +8,13 @@ tbd means to be determined
 Header/nav - 1920 x 150
 Logo in nav - 100 x 100
 nav height - 50
-nav width - tbd
+nav width - 960
 hero img - 1920 x 1000 (header overlayed on top)
 hero text overlay - ~48px
 scroll hint - 18px (might not include)
 
 body headers - >64px
-product video box width: 1340
+product video box width: 1220
 text below video - ~32px
 flavour photos - 420 x 740
 flavour names - same as header
